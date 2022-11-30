@@ -1,2 +1,7 @@
+
+
+
 Hey this is namira faiz and i am working on vim file
+ I am so dumb that i didnt save the file and freaking out lol
+:w
 
