@@ -1,0 +1,5 @@
+I am trying vim i hope adding text workes
+oh so it edits lol i am so dumb
+:w
+
+
